@@ -24,5 +24,8 @@ This project is developed as part of the **BLM230 - Computer Architecture (Bilgi
 
 ## 📸 Screenshot
 
-Screenshot 2025-06-08 105848.png
+![Simulator UI](Screenshot 2025-06-08 105848.png)
+
+
+
 
