@@ -31,10 +31,5 @@ Make sure you have Python 3 installed.
 
 ## 📸 Screenshot
 
-![Simulator UI](b9535bd8-47b6-4ffe-8095-aa99873af4fc.png)
+![Screenshot 2025-06-08 105848](https://github.com/user-attachments/assets/588c416d-1e5b-449a-90b6-3b99885c67bd)
 
-## 👤 Student Info
-
-- **Name:** SUBAYIN HUSSEIN ABDUREHID  
-- **Student Number:** 22360859375  
-- **Course:** BLM230 - Computer Architecture
