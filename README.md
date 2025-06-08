@@ -21,13 +21,6 @@ This project is developed as part of the **BLM230 - Computer Architecture (Bilgi
 
 [▶️ Watch on YouTube](https://youtu.be/pOE0MXaBdOE)
 
-## 🧠 How to Run
-
-```bash
-python hamming_kodu_projesi.py
-```
-
-Make sure you have Python 3 installed.
 
 ## 📸 Screenshot
 
