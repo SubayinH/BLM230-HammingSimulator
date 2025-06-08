@@ -19,7 +19,7 @@ This project is developed as part of the **BLM230 - Computer Architecture (Bilgi
 
 ## 🎥 Demo Video
 
-[▶️ Watch on YouTube](https://youtu.be/pOE0MXaBdOE)
+[▶️ Watch on YouTube][(https://youtu.be/pOE0MXaBdOE](https://www.youtube.com/watch?v=Et39pTWAgh0))
 
 
 ## 📸 Screenshot
