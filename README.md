@@ -24,5 +24,5 @@ This project is developed as part of the **BLM230 - Computer Architecture (Bilgi
 
 ## 📸 Screenshot
 
-![Screenshot 2025-06-08 105848](https://github.com/user-attachments/assets/588c416d-1e5b-449a-90b6-3b99885c67bd)
+Screenshot 2025-06-08 105848.png
 
