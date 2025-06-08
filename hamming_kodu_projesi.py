@@ -194,4 +194,3 @@ hata_konumu_etiketi = tk.Label(result_frame, text="", font=("Helvetica", 12), bg
 hata_konumu_etiketi.pack()
 
 root.mainloop()
-
